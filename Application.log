@@ -1,0 +1,20 @@
+16/07/2018 20:00:17 devpinoyLogger Open Browser
+16/07/2018 20:00:28 devpinoyLogger Open Site
+16/07/2018 20:00:31 devpinoyLogger In Enter flight Information Page
+16/07/2018 20:00:35 devpinoyLogger Round trip check box clicked
+16/07/2018 20:00:38 devpinoyLogger business class selected
+16/07/2018 20:00:42 devpinoyLogger Entered From
+16/07/2018 20:00:48 devpinoyLogger Entered To
+16/07/2018 20:00:52 devpinoyLogger Entered Departure Date
+16/07/2018 20:00:55 devpinoyLogger Entered Arrival Date
+16/07/2018 20:00:58 devpinoyLogger Entered Manual Passenger
+16/07/2018 20:01:36 devpinoyLogger Clicked Search Button
+16/07/2018 20:01:36 devpinoyLogger Test enterFlightData Passed
+16/07/2018 20:01:41 devpinoyLogger Book Now Button clicked
+16/07/2018 20:01:45 devpinoyLogger Enter Data in a guest Section
+16/07/2018 20:01:51 devpinoyLogger Confirm Booking Button Clicked
+16/07/2018 20:01:51 devpinoyLogger Confirm Booking Successfully
+16/07/2018 20:01:54 devpinoyLogger PDF Downloaded
+16/07/2018 20:01:58 devpinoyLogger Arrival pay button clicked
+16/07/2018 20:01:59 devpinoyLogger Reserved test passed
+16/07/2018 20:02:00 devpinoyLogger Browser Closed

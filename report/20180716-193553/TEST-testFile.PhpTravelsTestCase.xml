@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Hems" name="testFile.PhpTravelsTestCase" skipped="0" tests="1" time="69.689" timestamp="2018-07-16T23:35:56">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="HEMS" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.UOIPME_REG_PATH" value="C:\Program Files\Intel Corporation\USB over IP" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="test.reportsDir" value="report/20180716-193553" />
+    <property name="env.DriverData" value="C:\Windows\System32\Drivers\DriverData" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes" />
+    <property name="ws.home" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports" />
+    <property name="env.COMPUTERNAME" value="HEMS" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="TODAY" value="July 16 2018" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3" />
+    <property name="java.runtime.version" value="1.8.0_144-b01" />
+    <property name="env.HOMEPATH" value="\Users\Hems" />
+    <property name="user.name" value="Hems" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin" />
+    <property name="ant.project.default-target" value="usage" />
+    <property name="ant.project.name" value="JunitProject2" />
+    <property name="DSTAMP" value="20180716" />
+    <property name="java.version" value="1.8.0_144" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 69 Stepping 1, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.asl.log" value="Destination=file" />
+    <property name="env.TEMP" value="C:\Users\Hems\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed" />
+    <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_144\bin\java.exe" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="env.VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="env.java.home" value="C:\Program Files\Java\jre1.8.0_144" />
+    <property name="user.country" value="CA" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_144\jre" />
+    <property name="env.PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\;C:\Program Files\WindowsPowerShell\Modules\;C:\Program Files (x86)\Microsoft SDKs\Azure\PowerShell\ResourceManager\AzureResourceManager\;C:\Program Files (x86)\Microsoft SDKs\Azure\PowerShell\ServiceManagement\;C:\Program Files (x86)\Microsoft SDKs\Azure\PowerShell\Storage\" />
+    <property name="env.ANDROID_HOME" value="C:\Program Files (x86)\Android\android-sdk" />
+    <property name="env.APPDATA" value="C:\Users\Hems\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="env._USE_CLASSPATH" value="no" />
+    <property name="env.=::" value="::\" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.144-b01" />
+    <property name="env.USERPROFILE" value="C:\Users\Hems" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3\lib" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_144" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\Hems\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="sun.stdout.encoding" value="cp850" />
+    <property name="user.script" value="" />
+    <property name="test.dest" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports/build" />
+    <property name="user.home" value="C:\Users\Hems" />
+    <property name="env.VS140COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.M2_HOME" value="C:\apache-maven-3.5.4-bin\apache-maven-3.5.4\" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Microsoft MPI\Bin\;C:\app\Hems\product\11.2.0\dbhome_1\bin;C:\app\Hems\product\11.2.0\dbhome_2\bin;C:\app\oracle\product\12.1.0\dbhome_2\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\Doctrine extensions for PHP\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3\bin;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Users\Hems\Desktop\pythonStuff;&quot;;C:\mongodb&quot;;C:\WINDOWS\System32\OpenSSH\;C:\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;C:\Program Files\allure-2.6.0\allure-2.6.0\bin;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Users\Hems\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Hems\AppData\Local\Programs\Python\Python36-32\;C:\Program Files\Microsoft MPI\Bin\;C:\app\oracle\product\12.1.0\dbhome_2\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\Doctrine extensions for PHP\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\MongoDB\Server\3.6\bin\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\WINDOWS\SYSTEM32;C:\Program Files\Java\jdk1.8.0_65\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\Hems\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Hems\AppData\Local\Microsoft\WindowsApps;C:\Users\Hems\AppData\Roaming\npm;C:\Program Files (x86)\Nmap;C:\Python27;C:\Program Files (x86)\Android\android-sdk\platform-tools;C:\Users\Hems\AppData\Local\Microsoft\WindowsApps;C:\Users\Hems\AppData\Roaming\Composer\vendor\bin;C:\Program Files\allure-2.6.0\allure-2.6.0\bin;&quot;C:\Program Files\Java\jdk1.8.0_144\bin;&quot;;;." />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.3 compiled on March 24 2018" />
+    <property name="java.class.path" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports\build;C:\SeleniumJars\SaxonLiaison.jar;C:\SeleniumJars\dom4j-1.1.jar;C:\SeleniumJars\extentreports-2.41.2.jar;C:\SeleniumJars\freemarker-2.3.23.jar;C:\SeleniumJars\java-client-6.1.0.jar;C:\SeleniumJars\jcommander-1.48.jar;C:\SeleniumJars\junit-4.12.jar;C:\SeleniumJars\log4j-1.2.14.jar;C:\SeleniumJars\poi-3.6-20091214.jar;C:\SeleniumJars\poi-ooxml-3.6-20091214.jar;C:\SeleniumJars\poi-ooxml-schemas-3.6-20091214.jar;C:\SeleniumJars\reporty-ng-1.2.jar;C:\SeleniumJars\saxon-8.7.jar;C:\SeleniumJars\selenium-server-standalone-2.53.1.jar;C:\SeleniumJars\testng-6.14.3.jar;C:\SeleniumJars\xmlbeans-2.3.0.jar;C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3\lib\ant-launcher.jar;C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3\lib\ant.jar;C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3\lib\ant-junit.jar;C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner testFile.PhpTravelsTestCase skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports\report\20180716-193553\TEST-testFile.PhpTravelsTestCase.xml crashfile=C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports\junitvmwatcher826535669393207852.properties propsfile=C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports\junit8877127226429968446.properties" />
+    <property name="TSTAMP" value="1935" />
+    <property name="ws.jars" value="C:/SeleniumJars" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="env.windir" value="C:\WINDOWS" />
+    <property name="env.LOGONSERVER" value="\\HEMS" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="ant.file.JunitProject2" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports\build.xml" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="env.ANDROID_NDK_PATH" value="C:\Program Files\Android\ndk\android-ndk-r11c" />
+    <property name="env.OneDrive" value="C:\Users\Hems\OneDrive" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3" />
+    <property name="java.io.tmpdir" value="C:\Users\Hems\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="4501" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="test.src" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports/src" />
+    <property name="env.VS120COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\WINDOWS" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="env.ANT_CMD_LINE_ARGS" value=" run" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Hems\AppData\Local" />
+    <property name="env.MAVEN_HOME" value="C:\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files\Microsoft MPI\Bin\;C:\app\Hems\product\11.2.0\dbhome_1\bin;C:\app\Hems\product\11.2.0\dbhome_2\bin;C:\app\oracle\product\12.1.0\dbhome_2\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\Doctrine extensions for PHP\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3\bin;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Users\Hems\Desktop\pythonStuff;&quot;;C:\mongodb&quot;;C:\WINDOWS\System32\OpenSSH\;C:\apache-maven-3.5.4-bin\apache-maven-3.5.4\bin;C:\Program Files\allure-2.6.0\allure-2.6.0\bin;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Users\Hems\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Hems\AppData\Local\Programs\Python\Python36-32\;C:\Program Files\Microsoft MPI\Bin\;C:\app\oracle\product\12.1.0\dbhome_2\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\Doctrine extensions for PHP\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\MongoDB\Server\3.6\bin\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\nodejs\;C:\WINDOWS\SYSTEM32;C:\Program Files\Java\jdk1.8.0_65\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\Hems\AppData\Local\GitHub\PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0\cmd;C:\Users\Hems\AppData\Local\Microsoft\WindowsApps;C:\Users\Hems\AppData\Roaming\npm;C:\Program Files (x86)\Nmap;C:\Python27;C:\Program Files (x86)\Android\android-sdk\platform-tools;C:\Users\Hems\AppData\Local\Microsoft\WindowsApps;C:\Users\Hems\AppData\Roaming\Composer\vendor\bin;C:\Program Files\allure-2.6.0\allure-2.6.0\bin;&quot;C:\Program Files\Java\jdk1.8.0_144\bin;&quot;;" />
+    <property name="basedir" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="TODAY_MY" value="20180716-193553" />
+    <property name="ant.core.lib" value="C:\Users\Hems\Downloads\Programs\apache-ant-1.10.3-bin\apache-ant-1.10.3\lib\ant.jar" />
+    <property name="env.USERNAME" value="Hems" />
+    <property name="env.MYSQLCONNECTOR_ASSEMBLIESPATH" value="C:\Program Files (x86)\MySQL\Connector.NET 6.9\Assemblies\v4.5" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.file.type.JunitProject2" value="file" />
+    <property name="sun.stderr.encoding" value="cp850" />
+    <property name="env.USERDOMAIN" value="HEMS" />
+    <property name="env.MSMPI_BIN" value="C:\Program Files\Microsoft MPI\Bin\" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="env.=C:" value="C:\Selenium_Workspace_Re\PhpTravels_Junit_Ant_Reports" />
+    <property name="ant.project.invoked-targets" value="run" />
+    <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="testFile.PhpTravelsTestCase" name="enterFlightDataTest" time="69.501" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9) on port 16399
+Only local connections are allowed.
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+]]></system-err>
+</testsuite>
